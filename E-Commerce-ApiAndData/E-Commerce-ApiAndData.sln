@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{17FF858F-BD64-488D-BD6F-CB94798E06B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussiness Logic", "Bussiness Logic\Bussiness Logic.csproj", "{EE1F7D88-5CA0-46C1-8BDC-92DF9EBAA3C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D515BB7C-22F5-4293-9480-7D66776DB30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17FF858F-BD64-488D-BD6F-CB94798E06B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FF858F-BD64-488D-BD6F-CB94798E06B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FF858F-BD64-488D-BD6F-CB94798E06B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FF858F-BD64-488D-BD6F-CB94798E06B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1F7D88-5CA0-46C1-8BDC-92DF9EBAA3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1F7D88-5CA0-46C1-8BDC-92DF9EBAA3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1F7D88-5CA0-46C1-8BDC-92DF9EBAA3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1F7D88-5CA0-46C1-8BDC-92DF9EBAA3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D515BB7C-22F5-4293-9480-7D66776DB30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D515BB7C-22F5-4293-9480-7D66776DB30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D515BB7C-22F5-4293-9480-7D66776DB30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D515BB7C-22F5-4293-9480-7D66776DB30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9BC2631-CD3B-4CFB-9D3E-81B61F1AD101}
+	EndGlobalSection
+EndGlobal
