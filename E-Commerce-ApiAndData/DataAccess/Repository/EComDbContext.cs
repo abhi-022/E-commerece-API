@@ -1,13 +1,15 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DataAccess.Entities;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace DataAccess.Repository
 {
     public class EComDbContext: DbContext
     {
+        //Dependency Injection
+        public EComDbContext(DbContextOptions<EComDbContext> options) : base(options){}
+
+        //DbSets
+        public DbSet<Customer> Customers { get; set; }
     }
 }

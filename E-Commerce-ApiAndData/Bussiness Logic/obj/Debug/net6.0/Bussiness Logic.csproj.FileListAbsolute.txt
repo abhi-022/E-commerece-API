@@ -1,0 +1,15 @@
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\bin\Debug\net6.0\Bussiness Logic.deps.json
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\bin\Debug\net6.0\Bussiness Logic.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\bin\Debug\net6.0\ref\Bussiness Logic.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\bin\Debug\net6.0\Bussiness Logic.pdb
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\bin\Debug\net6.0\DataAccess.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\bin\Debug\net6.0\DataAccess.pdb
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\Bussiness Logic.csproj.AssemblyReference.cache
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\Bussiness Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\Bussiness Logic.AssemblyInfoInputs.cache
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\Bussiness Logic.AssemblyInfo.cs
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\Bussiness Logic.csproj.CoreCompileInputs.cache
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\Bussiness Logic.csproj.CopyComplete
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\Bussiness Logic.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\ref\Bussiness Logic.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\Bussiness Logic\obj\Debug\net6.0\Bussiness Logic.pdb

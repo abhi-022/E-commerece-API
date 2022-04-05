@@ -1,0 +1,14 @@
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\practice\E-Commerce\E-Commerce-ApiAndData\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache

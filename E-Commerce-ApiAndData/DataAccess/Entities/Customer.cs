@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DataAccess.Entities
+﻿namespace DataAccess.Entities
 {
     public class Customer
     {
@@ -15,7 +9,9 @@ namespace DataAccess.Entities
 
         public string CustomerName { get; set; }
 
-        public int Phone { get; set; }
+        public string Password { get; set; }
+
+        public long Phone { get; set; }
 
         public string? Address { get; set; }
 
